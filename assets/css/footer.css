@@ -1,0 +1,14 @@
+.footerMainContainer ul{
+    list-style: none;
+}
+.footerMainContainer ul li:first-child a{
+    color: var(--theme-green) ;
+}
+.footerMainContainer ul li a{
+    text-decoration: none;
+    color: var(--theme-dark);
+}
+.footerMainContainer ul li a:hover{
+    color: var(--theme-green);
+}
+
